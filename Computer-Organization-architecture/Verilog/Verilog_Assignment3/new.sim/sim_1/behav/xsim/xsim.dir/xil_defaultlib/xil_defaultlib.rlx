@@ -1,0 +1,7 @@
+0.7
+2020.1.1
+Aug  5 2020
+23:19:43
+C:/Users/Student/Desktop/COA/new/new.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/Student/Desktop/COA/new/new.srcs/sim_1/new/testbench.v,1693224160,verilog,,,,testbench,,,,,,,,
+C:/Users/Student/Desktop/COA/new/new.srcs/sources_1/new/top.v,1693224211,verilog,,C:/Users/Student/Desktop/COA/new/new.srcs/sim_1/new/testbench.v,,ALU_0;ALU_1;ALU_2;ALU_3;ALU_4;ALU_5;ALU_6;ALU_7;Carry_Adder_4Bit;Top;TwosComplementer,,,,,,,,

@@ -1,0 +1,71 @@
+Vivado Simulator 2020.1.1
+Time resolution is 1 ps
+in1: 12 in2: 12 func:0 result:  x clk:0
+in1: 12 in2: 12 func:0 result: 24 clk:1
+in1: 12 in2: 12 func:0 result: 24 clk:0
+in1: 12 in2: 12 func:0 result: 24 clk:1
+in1: 12 in2: 12 func:0 result: 24 clk:0
+in1: 12 in2: 12 func:0 result: 24 clk:1
+in1: 12 in2:  8 func:1 result: 24 clk:0
+in1: 12 in2:  8 func:1 result:  4 clk:1
+in1: 12 in2:  8 func:1 result:  4 clk:0
+in1: 12 in2:  8 func:1 result:  4 clk:1
+in1: 12 in2:  8 func:1 result:  4 clk:0
+in1: 12 in2:  8 func:1 result:  4 clk:1
+in1:  8 in2: 12 func:2 result:  4 clk:0
+in1:  8 in2: 12 func:2 result: 12 clk:1
+in1:  8 in2: 12 func:2 result: 12 clk:0
+in1:  8 in2: 12 func:2 result:  8 clk:1
+in1:  8 in2: 12 func:2 result:  8 clk:0
+in1:  8 in2: 12 func:2 result:  8 clk:1
+in1:  8 in2: 12 func:3 result:  8 clk:0
+in1:  8 in2: 12 func:3 result: 16 clk:1
+in1:  8 in2: 12 func:3 result: 16 clk:0
+in1:  8 in2: 12 func:3 result: 16 clk:1
+in1:  8 in2: 12 func:3 result: 16 clk:0
+in1:  8 in2: 12 func:3 result: 16 clk:1
+in1:  8 in2: 12 func:4 result: 16 clk:0
+in1:  8 in2: 12 func:4 result:  4 clk:1
+in1:  8 in2: 12 func:4 result:  4 clk:0
+in1:  8 in2: 12 func:4 result:  4 clk:1
+in1:  8 in2: 12 func:4 result:  4 clk:0
+in1:  8 in2: 12 func:4 result:  4 clk:1
+in1:  8 in2: 12 func:5 result:  4 clk:0
+in1:  8 in2: 12 func:5 result:  8 clk:1
+in1:  8 in2: 12 func:5 result:  8 clk:0
+in1:  8 in2: 12 func:5 result:  8 clk:1
+in1:  8 in2: 12 func:5 result:  8 clk:0
+in1:  8 in2: 12 func:5 result:  8 clk:1
+in1:  8 in2: 12 func:6 result:  8 clk:0
+in1:  8 in2: 12 func:6 result:247 clk:1
+in1:  8 in2: 12 func:6 result:247 clk:0
+in1:  8 in2: 12 func:6 result:247 clk:1
+in1:  8 in2: 12 func:6 result:247 clk:0
+in1:  8 in2: 12 func:6 result:247 clk:1
+in1:  8 in2: 12 func:7 result:247 clk:0
+in1:  8 in2: 12 func:7 result: 12 clk:1
+in1:  8 in2: 12 func:7 result: 12 clk:0
+in1:  8 in2: 12 func:7 result: 12 clk:1
+in1:  8 in2: 12 func:7 result: 12 clk:0
+in1:  8 in2: 12 func:7 result: 12 clk:1
+in1:  8 in2: 12 func:7 result: 12 clk:0
+in1:  8 in2: 12 func:7 result: 12 clk:1
+in1:  8 in2: 12 func:7 result: 12 clk:0
+in1:  8 in2: 12 func:7 result: 12 clk:1
+in1:  8 in2: 12 func:7 result: 12 clk:0
+in1:  8 in2: 12 func:7 result: 12 clk:1
+in1:  8 in2: 12 func:7 result: 12 clk:0
+in1:  8 in2: 12 func:7 result: 12 clk:1
+in1:  8 in2: 12 func:7 result: 12 clk:0
+in1:  8 in2: 12 func:7 result: 12 clk:1
+in1:  8 in2: 12 func:7 result: 12 clk:0
+in1:  8 in2: 12 func:7 result: 12 clk:1
+in1:  8 in2: 12 func:7 result: 12 clk:0
+in1:  8 in2: 12 func:7 result: 12 clk:1
+in1:  8 in2: 12 func:7 result: 12 clk:0
+in1:  8 in2: 12 func:7 result: 12 clk:1
+in1:  8 in2: 12 func:7 result: 12 clk:0
+in1:  8 in2: 12 func:7 result: 12 clk:1
+in1:  8 in2: 12 func:7 result: 12 clk:0
+in1:  8 in2: 12 func:7 result: 12 clk:1
+$finish called at time : 340 ns : File "C:/Users/Student/Desktop/COA/new/new.srcs/sim_1/new/testbench.v" Line 72

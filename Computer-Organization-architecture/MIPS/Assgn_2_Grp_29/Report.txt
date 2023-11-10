@@ -1,0 +1,29 @@
+First we are going to run 2 nesterd loops to store the values of the cycles;
+we are going to use 3 variables start, prev and current to store the cycle numbers
+in each iteration, we store the array2[prev] = arr1[current] to store the both the arrayas
+
+we then use a similar method to find the final array by usingthe index of the first arrayt and finding the number in the corresonding index in array 2, this iwll be the final number 
+
+Note: We are going to assign an integer to each alphabet 
+ex: a - 0
+b- 1
+c -2 .....
+
+Now when the user wants to input the alphabets in the first cycle : a c f - 0 2 5
+now arr1[0] = 2, arr1[2] = 5, arr1[5] = 0
+Now, we need to store the start varialbe too , becaued in the last iteration we arae going to store the first value
+
+Similarily for the second cycle, therefore by the end of the second cycle we can find the  corresponding 10 digiti number of the final permutation 
+
+Array 1 : 2351406789
+Array2: 1320546789
+
+Now arr[1][0] = 2;
+arr2[2] = 2
+
+arr[1][1] = 3
+arr2[3]= 0
+..
+we can find the final array
+
+Final Arrary: 2043516789
