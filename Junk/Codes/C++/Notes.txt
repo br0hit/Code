@@ -1,0 +1,30 @@
+Object oriented programming : 
+
+Object oriented programming may sound similar to that of the structures but the main difference is that in the case of structures in C/C++ we cannot define functions inside a structure so we use the new notation of objects
+
+objects allow us to store all the different kinds of data together and also define functions inside them 
+
+Main principles of object oriented programming :
+
+Encapsulaiton
+Abstraction
+Inheritance
+Polymorphism
+
+
+
+THE CHERNO : 
+
+Pre processing files : 
+
+The # is a pre processing file , when a compiler first receives a code , it looks for the # 
+Then include will search for the files which you want in your current program and add them
+
+These are called header files
+
+iostream contains cout and cin
+
+there is int main() but we dont return any integer this is because the main function is a special case
+
+Now when we write cout<< the '<<' is also bascially a operator
+

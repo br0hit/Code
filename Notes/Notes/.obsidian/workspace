@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "9aebdef66068a314",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f12f8807bbe6b37",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Trees.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1e253b099f2b8e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac9ca68c97c99e87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed5d5e46b293ce80",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7948c1e0f6b6b18a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06274c4d020a8670",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c621c177280dced",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae7e5157b2077802",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0f692918f363e45",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Trees.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f04e565d5fa16fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Trees.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eda859ff7712c44b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b3fa272b8fdbc95b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Trees.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6f12f8807bbe6b37",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Trees.md",
+    "Linked list.md",
+    "Pasted image 20221011193028.png"
+  ]
+}
